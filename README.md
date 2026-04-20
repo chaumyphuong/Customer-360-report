@@ -20,6 +20,10 @@ The report provides detailed analysis and insights, including:
 - Analyze customers by customer segments
 - Key business recommendations.
 
+# Data Source
+The dataset is from three csv file: Customer_Registered.csv, Customer_Transaction.csv, Location.csv
+These dataset is stored in "customer 360.sql"
+
 # Power BI Dashboard
 
 The Power BI dashboard visualizes key metrics and allows interactive exploration:
@@ -31,12 +35,9 @@ The Power BI dashboard visualizes key metrics and allows interactive exploration
 - Time-series trends
 
 **How to Use:**
-- Open the .pbix file in Power BI Desktop
+- Open the .pbit file in Power BI Desktop
+- Connect to customer 360.sql
 - Refresh data if needed
-
-# Data Source
-The dataset is from three csv file:
-These dataset is stored in 
 
 # Tools
 - Excel / Data Modeling – Data preparation
